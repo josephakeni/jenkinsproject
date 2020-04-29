@@ -1,1 +1,2 @@
-mvn archetype:generate -DgroupId=com.jotoniamaven -DartifactId=mavendemo -Dpackage=com.jotoniamaven.mavendemo -DarchetypeArtifactId=maven-archetype-quickstart -Dversion=1.0-SNAPSHOT -DinteractiveMode=false
+mvn archetype:generate -DgroupId=com.jotoniamaven -DartifactId=mavendemo-webapp -Dpackage=com.jotoniamaven.mavendemo -DarchetypeArtifactId=maven-archetype-webapp -Dversion=0.0.1-SNAPSHOT -DinteractiveMode=false
+mvn archetype:generate -DgroupId=com.jotoniamaven -DartifactId=mavendemo-webapp -Dpackage=com.jotoniamaven.mavendemo -DarchetypeArtifactId=maven-archetype-webapp -Dversion=0.0.1-SNAPSHOT -DinteractiveMode=false
