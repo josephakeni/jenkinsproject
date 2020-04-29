@@ -1,0 +1,1 @@
+mvn archetype:generate -DgroupId=com.jotoniamaven -DartifactId=mavendemo -Dpackage=com.jotoniamaven.mavendemo -DarchetypeArtifactId=maven-archetype-quickstart -Dversion=1.0-SNAPSHOT -DinteractiveMode=false
