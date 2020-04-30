@@ -14,6 +14,13 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/checkstyle/checkstyle -->
+    <dependency>
+      <groupId>checkstyle</groupId>
+      <artifactId>checkstyle</artifactId>
+      <version>4.4</version>
+    </dependency>
+
   </dependencies>
   <build>
     <finalName>mavendemo-webapp</finalName>
