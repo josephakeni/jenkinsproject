@@ -31,8 +31,16 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    public void testAdd()
     {
-        assertTrue( true );
+        assertEquals(10, new Calculator().add(5, 5));
+    }
+    public void testSubtract()
+    {
+        assertEquals(10, new Calculator().subtract(20, 10));
+    }
+    public void testDivide()
+    {
+        assertEquals(1.0, new Calculator().divide(5, 5));
     }
 }
